@@ -1,0 +1,2 @@
+# Descripcion
+Esta actividad consiste en modelar una entidad mediante una estructura (`struct`) en C++. El programa carga y muestra sus datos usando punteros y el operador flecha (`->`), y practica la lectura de distintos tipos de información por teclado.
