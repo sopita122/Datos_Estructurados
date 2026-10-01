@@ -195,6 +195,6 @@ EntidadProyecto* ptr;
 # 4.Modificar la estructura incorrectamente
 Si se agrega un nuevo miembro al struct, también se debe agregar su carga y, si corresponde, su visualización en el programa. 
 
-## 12.Coclucion
+## 12.Conclusion
 El programa desarrollado permite aplicar los conceptos de struct, punteros, operador flecha (->) y manejo del buffer de entrada en C++.
 La estructura permite agrupar datos relacionados dentro de una misma entidad, mientras que el puntero permite trabajar con la dirección de memoria de esa estructura y modificar sus datos desde una función.
